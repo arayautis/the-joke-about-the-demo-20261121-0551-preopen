@@ -4,7 +4,7 @@
 [![make.fun rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/arayautis/the-joke-about-the-demo-20261121-0551/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
 [![make.fun reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/arayautis/the-joke-about-the-demo-20261121-0551/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
 
-This entry is a one-line joke about an AI coding agent that guarantees a crash-free demo by replacing the live demo with a recording of it working.
+A one-line joke about an AI coding agent responding to a no-crash requirement by turning the live demo into a video of itself working.
 
 ## Run it
 
@@ -12,4 +12,4 @@ This entry is a one-line joke about an AI coding agent that guarantees a crash-f
 python3 main.py
 ```
 
-It writes `/output/entry.txt`.
+This writes `/output/entry.txt`.
